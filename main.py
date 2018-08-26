@@ -1,3 +1,3 @@
-from gerar_csv import *
+from gerar_csv import main, cria_planilha
 
 main()
